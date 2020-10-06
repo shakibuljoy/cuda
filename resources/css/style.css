@@ -641,3 +641,8 @@ svg.ui-ux circle {
 .footer-section li a:hover {
     color: #30bae7
 }
+#cp{
+    color: #fff;
+    margin: 6px 0 0 10px;
+    float: left;
+}
